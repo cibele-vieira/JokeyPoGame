@@ -1,8 +1,12 @@
 # JokeyPoGame
 O jogo do papel pedra e tesoura
+
+
 from random import randint
 from time import sleep
 print ('\033[35;mJOKEY PO')
+
+
 print('─┐　─┐')
 print('│▒│ /▒/')
 print('│▒│/▒/')
